@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-[![CCease's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCease&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![CCease's Language Stats](https://github.com/CCease/github-stats/blob/master/generated/languages.svg)
-
-![CCease's Overview Stats](https://github.com/CCease/github-stats/blob/master/generated/overview.svg)
+![CCease's Language Stats](https://github.com/CCease/github-stats/blob/master/generated/languages.svg) ![CCease's Overview Stats](https://github.com/CCease/github-stats/blob/master/generated/overview.svg)
 
 
 <!--
 **CCease/CCease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![CCease's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCease&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
